@@ -108,8 +108,5 @@ This structure makes it easy to review the progression from raw data → analysi
 This portfolio was created as part of the **KPMG Virtual Experience Program (VEP)** — Career Catalyst: Advisory track. It replicates a real client engagement using the **CREATE Framework** (Clarify, Research, Explore, Analyze, Test, Execute) and demonstrates how KPMG teams combine data analytics, leading practice research, and creative thinking to deliver measurable impact for healthcare clients.
 
 **Prepared:** May 2026  
-**Tools Used:** Python (pandas, openpyxl, python-docx, python-pptx), Excel, Word
 
 ---
-
-*Thank you for reviewing this simulation portfolio. All deliverables are ready for submission or further discussion.*

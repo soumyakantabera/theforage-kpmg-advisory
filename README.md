@@ -1,10 +1,16 @@
 # Career Catalyst: Advisory — KPMG Virtual Experience Program
 
+<p>
+  <img src="https://img.shields.io/badge/Program-KPMG%20Advisory-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Platform-The%20Forage-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge">
+</p>
+
 > **A full-cycle consulting simulation portfolio built on the KPMG CREATE Framework, tackling a real-world operational challenge for a multi-site urgent care provider.**
 
 ---
 
-## Table of Contents
+## 📋 Table of Contents
 
 1. [Project Background](#1-project-background)
 2. [The KPMG CREATE Framework](#2-the-kpmg-create-framework)
